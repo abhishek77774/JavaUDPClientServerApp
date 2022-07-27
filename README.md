@@ -1,4 +1,4 @@
-# A Basic Java UDP Client Server Application
+# Java UDP Client Server Application
 
 ### Features:
 - It is a Java console application. Created for learning purpose.
